@@ -13,6 +13,18 @@
     <!-- Error messages-->
     <string name="detail_error_message">Sandwich data not available</string>
 
+    <!-- Empty alsoKnownAs element -->
+    <string name="empty_also_known_as">No alternate names</string>
+
+    <!-- Empty Place of Origin -->
+    <string name="empty_place_of_origin">Unknown</string>
+
+    <!-- Empty Description -->
+    <string name="empty_description">No Description</string>
+
+    <!-- Empty list of Ingredients -->
+    <string name="empty_ingredients">Not Availabe</string>
+
     <string-array name="sandwich_names">
         <item>Ham and cheese sandwich</item>
         <item>Bosna</item>
@@ -128,5 +140,4 @@
         </item>
     </string-array>
 
-</resources>
-<!-- Photo credits to Wikimedia Commons -->
+</resources><!-- Photo credits to Wikimedia Commons -->
